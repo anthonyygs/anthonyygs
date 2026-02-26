@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, i' Anthony! 👋
+
+Here on my GitHub, you can find some of the projects I'm working on, although most of my repositories are kept private.
 
 <!--
 **anthonyygs/anthonyygs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
