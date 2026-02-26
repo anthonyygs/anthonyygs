@@ -1,4 +1,4 @@
-## Hi there, i' Anthony! 👋
+## Hi there, my name is Anthony! 👋
 
 Here on my GitHub, you can find some of the projects I'm working on, although most of my repositories are kept private.
 
